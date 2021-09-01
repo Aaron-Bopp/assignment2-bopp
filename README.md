@@ -14,3 +14,16 @@ We have a **lake** cabin **there**
 - get to Maryville
 
 [about me](AboutMe.md)
+
+--- 
+
+# Table
+
+This is a table about food
+
+| food   | location        | price      |
+| ------ | --------------- | ---------- |
+| pop    | union           | swipe card |
+| pop    | vending machine | $2         |
+| burger | mcdonalds       | $1         |
+| cookie | home            | free       | 
