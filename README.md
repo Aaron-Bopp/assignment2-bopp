@@ -27,3 +27,13 @@ This is a table about food
 | pop    | vending machine | $2         |
 | burger | mcdonalds       | $1         |
 | cookie | home            | free       | 
+
+--- 
+
+# Qoutes
+
+> "Never say never"
+> -*anonymous*
+
+> "Just do it"
+ -*Nike*
